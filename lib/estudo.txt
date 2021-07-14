@@ -1,0 +1,17 @@
+https://medium.com/@afegbua/flutter-thursday-series-9564d04e63a7
+
+  https://medium.com/@afegbua/flutter-thursday-04-making-a-texty-navigation-f4251c272384
+
+  https://medium.com/@afegbua/flutter-thursday-06-banking-app-account-ui-b3526802b476
+
+  AlertOutlined alerta
+
+  DashboardOutlined
+
+  CommentOutlined
+
+  HddOutlined biblioteca
+
+  like LikeOutlined
+
+  cd
